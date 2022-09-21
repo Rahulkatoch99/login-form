@@ -1,0 +1,16 @@
+.my{
+    margin: 22%;
+    padding: 4%;
+}
+
+@media(max-width: 600px) {
+    .my{
+       
+        margin: auto;
+        
+        
+        
+    }
+   
+    
+  }
